@@ -1,0 +1,1 @@
+# cozyarray-ebay-template
